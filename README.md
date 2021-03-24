@@ -1,4 +1,4 @@
-# Arduino-LCD-Display
+# Arduino LCD Display
 
 Voici le code du projet de l'écran LCD.
 
